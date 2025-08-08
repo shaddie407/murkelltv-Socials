@@ -1,5 +1,3 @@
-# murkelltv-Socials
-Get all the Links to Our Socials
 <!DOCTYPE html>
 <html lang="en">
 <head>
